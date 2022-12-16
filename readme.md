@@ -92,8 +92,4 @@ https://github.com/XTLS/Xray-examples).
 * [نخستین Issue بر روی GitHub پروژه که دلایل تولد Trojan را توضیح می‌دهد](https://github.com/trojan-gfw/trojan/issues/14)
 * [تشریح پروتکل](https://trojan-gfw.github.io/trojan/protocol.html)
 
-:star:
-[پروژه‌ دیگری به نام Trojan-Go](https://github.com/p4gefau1t/trojan-go
-) بر پایه پروژه Trojan و با زبان GO نوشته شده است. این پروژه نسبت به نسخه اولیه امکاناتی نظیر پشتیبانی از WebSocket و استفاده از CDN را هم اضافه کرده است.
-
 
